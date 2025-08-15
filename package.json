@@ -1,0 +1,26 @@
+{
+  "name": "sass-curse",
+  "version": "1.0.0",
+  "description": "Meu curso em sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clever05/sass-curse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clever05/sass-curse/issues"
+  },
+  "homepage": "https://github.com/Clever05/sass-curse#readme",
+  "devDependencies": {
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.90.0"
+  },
+  "dependencies": {
+    "gulp": "^5.0.1"
+  }
+}
